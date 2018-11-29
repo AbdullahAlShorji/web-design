@@ -15,3 +15,9 @@ Tämä on readme minun githubille.
 | JavaScript 	| 3 	|
 | JQuery		| 4		|
 | PHP			| 5		|
+
+# HTML
+## CSS
+### JavaScript
+#### JQuery
+##### PHP
