@@ -22,4 +22,4 @@ Tämä on readme minun githubille.
 #### JQuery
 ##### PHP
 
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/embed/GEfuOMzRgXo)]
+(https://www.youtube.com/embed/GEfuOMzRgXo)]
